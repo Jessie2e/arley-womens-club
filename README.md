@@ -19,3 +19,11 @@ Current baked excerpts: playground 12–19s, fire department 1–8s, library 1�
 
 Approved timing pass: playground 17–27s and elementary 18–23s are baked into the optimized hero clips. Matching browser drafts use those small clips; new timing experiments still use full preview copies. Timing record: assets/web/hero-clips.json.
 The nav uses the supplied arleywomensclublogo.jpg, optimized as logo-floral.webp. Botanical stem artwork replaces spiral accents and remains beneath section content.
+
+## About and design pages
+The shared navigation now links to about.html and our-design.html. Our Design replaces the former Arley Day navigation item; existing festival content remains on the homepage. The About page condenses supplied club copy into the mission, four expandable focus areas, and a membership invitation. The design story compares assets/logo-current.png with the refreshed bouquet, explains the subtle W, and shows coordinated variations.
+
+Calendar, Contact, Join, Members, and Support destinations have clearly labeled holding pages. Authentication, payment and newsletter submission are not connected. Newsletter feedback reports that no email was submitted. Officer names and time-sensitive counts from the supplied About copy are omitted pending confirmation. Optimized transparent brand assets are in assets/web/brand; the unused early brand-board image containing EST. 2022 is not shown. All displayed identity dates are EST. 1972.
+
+## Potential club collection
+Our Design includes an illustrative merchandise collection: mock-neck sweatshirt, hat, stationery, mug and tote. These are concepts for the design pitch, with proposed donation thank-you/member gifting and fundraising purchases. No products, prices, campaign amounts or availability are committed. Image generated using the built-in image-generation tool with the bouquet as reference; displayed EST. 1972. The product idea row supports touch scrolling, arrow buttons and keyboard arrows on phones/tablets.
