@@ -1,0 +1,10 @@
+
+.DS_Store
+assets/*.mov
+assets/*.MOV
+assets/*.JPG
+assets/*.jpg
+assets/*.png
+*-preview.png
+membership-preview.png
+review-preview.png
