@@ -209,3 +209,5 @@ h1,h2,h3{font-variant-ligatures:none;font-feature-settings:"liga" 0,"dlig" 0}
 .identity-panel img[src="assets/web/membership/original-logo.webp"]{width:100%;max-width:290px;height:auto;max-height:none;object-fit:contain;background:#fff;padding:14px;border-radius:20px}
 @media(max-width:1050px){.hero-header .logo-disc.original-logo-badge{width:76px;height:76px}}
 @media(max-width:700px){.hero-header .logo-disc.original-logo-badge{width:66px;height:66px}.footer-mark img[src="assets/web/membership/original-logo.webp"]{padding:5px;border-radius:12px;height:auto}.support-art img[src="assets/web/membership/original-logo.webp"]{padding:8px;border-radius:14px}.identity-panel img[src="assets/web/membership/original-logo.webp"]{max-width:220px}}
+/* Keep the expanded main menu comfortable on smaller desktop widths. */
+@media(min-width:1051px) and (max-width:1250px){.main-nav{gap:14px}.main-nav a{font-size:.8rem;white-space:nowrap}.nav-donate{padding:14px 18px}}
