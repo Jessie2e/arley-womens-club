@@ -78,3 +78,6 @@
 /* Match the original-logo badge in the navigation. */
 .interior-page .footer-mark img[src="assets/web/membership/original-logo.webp"]{background:#fff;padding:7px;border:1px solid #fff;border-radius:18px;object-fit:contain;height:auto}
 @media(max-width:700px){.interior-page .footer-mark img[src="assets/web/membership/original-logo.webp"]{padding:5px;border-radius:12px;height:auto}}
+/* Keep faces clear of both the crop and the rounded upper corner. */
+.membership-hero-photo>img{object-position:center top;border-top-left-radius:28px}
+@media(max-width:700px){.membership-hero-photo>img{object-position:center top;border-top-left-radius:24px}}
